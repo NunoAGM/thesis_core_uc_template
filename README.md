@@ -17,4 +17,4 @@
 - This template was used to write the following master thesis: https://estudogeral.uc.pt/handle/10316/102905
 
 ## acknowledgement
-Special regrats to Prof. Dr. Jérôme Mendes and Dr. Jorge Júnior
+Special regrats to Prof. Dr. Jérôme Mendes and Dr. Jorge Sampaio
