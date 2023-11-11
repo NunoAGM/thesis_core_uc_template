@@ -1,11 +1,11 @@
 # thesis_core
-Latex version of master thesis, University of Coimbra [non-official].
-
-Despite this being a non-official version it can be steel used by the UC students to write their master thesis.
-
-Offical webpage: https://www.uc.pt/identidadevisual/recursos-academicos/
+- Latex version of master thesis, University of Coimbra [non-official].
+- Despite this being a non-official version it can be steel used by the UC students to write their master thesis.
+- Webpage of University of Coimbra to download official templates: https://www.uc.pt/identidadevisual/recursos-academicos/
 
 ## mandatory to-do to can run the latex code:
+- Download the zip file
+- Open in overleaf webpage, or in a similar application
 - Go to the following folder: Chapters » PreText
 - Copy to their 2 pdf files:
     - "Capa_Dissertacao_A4comPag.pdf" | Download at: https://www.uc.pt/site/assets/files/1035053/capa_dissertacao_a4compag.docx
